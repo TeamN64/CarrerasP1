@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Cruz Caballero/Desktop/Github/CarrerasP1/AerodynamicRacing/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"C:/Users/Cruz Caballero/Desktop/Github/CarrerasP1/AerodynamicRacing/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/Cruz Caballero/Desktop/Github/CarrerasP1/AerodynamicRacing/Content/Bryan/MainMenu.umap",
+				"C:/Users/Cruz Caballero/Desktop/Github/CarrerasP1/AerodynamicRacing/Content/Bryan/WB_MainMenu.uasset"
 			]
 		}
 	]
