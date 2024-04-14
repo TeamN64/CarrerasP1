@@ -7,7 +7,16 @@
 			"files": [
 				"C:/Users/Cruz Caballero/Desktop/Github/CarrerasP1/AerodynamicRacing/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/Cruz Caballero/Desktop/Github/CarrerasP1/AerodynamicRacing/Content/Bryan/MainMenu.umap",
-				"C:/Users/Cruz Caballero/Desktop/Github/CarrerasP1/AerodynamicRacing/Content/Bryan/WB_MainMenu.uasset"
+				"C:/Users/Cruz Caballero/Desktop/Github/CarrerasP1/AerodynamicRacing/Content/Bryan/WB_MainMenu.uasset",
+				"C:/Users/Cruz Caballero/Desktop/Github/CarrerasP1/AerodynamicRacing/Content/Bryan/GM_Racing.uasset",
+				"C:/Users/Cruz Caballero/Desktop/Github/CarrerasP1/AerodynamicRacing/Content/Bryan/BP_Checkpoint.uasset",
+				"C:/Users/Cruz Caballero/Desktop/Github/CarrerasP1/AerodynamicRacing/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset",
+				"C:/Users/Cruz Caballero/Desktop/Github/CarrerasP1/AerodynamicRacing/Content/Bryan/NewCameraShakeBase.uasset",
+				"C:/Users/Cruz Caballero/Desktop/Github/CarrerasP1/AerodynamicRacing/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsFront.uasset",
+				"C:/Users/Cruz Caballero/Desktop/Github/CarrerasP1/AerodynamicRacing/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset",
+				"C:/Users/Cruz Caballero/Desktop/Github/CarrerasP1/AerodynamicRacing/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/PX/3YKCZXUVHKMLKF0VRH0JNL.uasset",
+				"C:/Users/Cruz Caballero/Desktop/Github/CarrerasP1/AerodynamicRacing/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/FJ/ZXE8XSP5A6S25HAMN9IFDI.uasset",
+				"C:/Users/Cruz Caballero/Desktop/Github/CarrerasP1/AerodynamicRacing/Content/VehicleTemplate/Maps/VehicleExampleMap.umap"
 			]
 		}
 	]
