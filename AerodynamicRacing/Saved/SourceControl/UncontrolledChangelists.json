@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/DATA/github/CarrerasP1/AerodynamicRacing/Content/MapaCircuito.umap",
+				"D:/DATA/games epic/UE_5.3/Engine/Content/BasicShapes/Sphere.uasset",
+				"D:/DATA/games epic/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
 				"C:/Users/mokit/Documents/GitHub/CarrerasP1/AerodynamicRacing/Content/MapaCircuito.umap",
 				"C:/Users/mokit/Documents/GitHub/CarrerasP1/AerodynamicRacing/Content/Megascans/Surfaces/M_LandscapePaint.uasset",
 				"C:/Users/mokit/Documents/GitHub/CarrerasP1/AerodynamicRacing/Content/Megascans/Surfaces/Road_Spline_Model_For_UE5_Tutorial_-_Gorka_Games.uasset",
